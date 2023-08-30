@@ -1,6 +1,5 @@
 # DiwaliSales
 
-
 This repository contains the code and analysis for the Diwali Sales Data project. The project involves exploring and analyzing sales data related to Diwali festivities. The dataset used for this analysis is named "Diwali Sales Data.csv".
 
 ## Table of Contents
@@ -72,9 +71,12 @@ To run the code and reproduce the analysis and visualizations, you need to have 
     
     Copy code
     
-    `pip install pandas matplotlib seaborn plotly` 
+    `pip install pandas`
+    `pip install matplotlib`
+    `pip install seaborn`
+    `pip install plotly` 
     
-3.  Open the Jupyter Notebook or Python script files to run the code.
+4.  Open the Jupyter Notebook or Python script files to run the code.
 
 ## Contributing
 
