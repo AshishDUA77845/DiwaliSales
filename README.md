@@ -70,7 +70,7 @@ To run the code and reproduce the analysis and visualizations, you need to have 
 1.  Clone this repository to your local machine.
 2.  Install the required dependencies using the following command:
     
-    Copy code
+    Copy the code: 
     
     `pip install pandas matplotlib seaborn plotly` 
     
